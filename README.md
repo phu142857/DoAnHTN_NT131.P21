@@ -46,8 +46,7 @@ Expected Outcome
 Contact
 For more information, feel free to reach out:
 
-Nguyen Tai Phu
-(Email: nguyentaiphu980@gmail.com)
+Nguyen Tai Phu (Email: nguyentaiphu980@gmail.com)
 
 
 
