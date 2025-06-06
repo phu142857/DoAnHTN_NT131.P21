@@ -47,7 +47,7 @@ Contact
 For more information, feel free to reach out:
 
 Nguyen Tai Phu
-Email: nguyentaiphu980@gmail.com
+(Email: nguyentaiphu980@gmail.com)
 
 
 
