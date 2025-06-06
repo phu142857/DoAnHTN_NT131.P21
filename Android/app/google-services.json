@@ -1,9 +1,9 @@
 {
   "project_info": {
     "project_number": "344098106710",
-    "firebase_url": "https://appcontrol-206dc-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "appcontrol-206dc",
-    "storage_bucket": "appcontrol-206dc.firebasestorage.app"
+    "firebase_url": "your-database-url",
+    "project_id": "your-project-id",
+    "storage_bucket": "your-storage"
   },
   "client": [
     {
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAC0DGTwa4CVQ4UDjouaivvS9thgOTauY8"
+          "current_key": "your-api-key"
         }
       ],
       "services": {
