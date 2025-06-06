@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "344098106710",
+    "firebase_url": "https://appcontrol-206dc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "appcontrol-206dc",
+    "storage_bucket": "appcontrol-206dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344098106710:android:b9b1cb8a8f58e46431faf7",
+        "android_client_info": {
+          "package_name": "com.example.appcontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC0DGTwa4CVQ4UDjouaivvS9thgOTauY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
