@@ -46,9 +46,7 @@ Expected Outcome
 - Synchronization between the ESP32 and Android app via Firebase.
 
 Contact
-For more information, feel free to reach out:
-
-Nguyen Tai Phu (Email: nguyentaiphu980@gmail.com)
+For more information, feel free to reach out: Nguyen Tai Phu (Email: nguyentaiphu980@gmail.com)
 
 
 
