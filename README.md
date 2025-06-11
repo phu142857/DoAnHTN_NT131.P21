@@ -32,6 +32,7 @@ System Overview
 ESP32 Code
 - File: ESP32.ino
 - Functionality:
+  
     • Reads air quality data from the connected sensor.
   
     • Sends data to Firebase Realtime Database using HTTP.
