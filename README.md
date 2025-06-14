@@ -2,12 +2,12 @@ Mini Project: Air Quality Measurement Using ESP32 & Kotlin
 Project Description
 This project utilizes an ESP32 microcontroller and a Kotlin-based Android application to measure air quality.Data from the air quality sensor is transmitted to a Firebase Realtime Database and displayed in real-time on a mobile app.
 
-Features
+# Features
 - Real-Time Monitoring: Measure and monitor air quality data in real-time.
 - Firebase Integration: Use Firebase Realtime Database for data storage and synchronization.
 - User-Friendly App: Kotlin-based Android application for seamless interaction and visualization of data.
 
-Setup Instructions
+# Setup Instructions
 1. ESP32 Configuration
 - Open the ESP32.ino file in Arduino IDE.
 - Update your Wi-Fi credentials in the code:
@@ -23,12 +23,12 @@ Setup Instructions
 - Place the provided google-services.json file in the Android/app/ directory.
 - Ensure the package_name matches your app's configuration (com.example.appcontrol).
 
-How to Run
+# How to Run
 - Power on the ESP32 and verify it connects to your Wi-Fi network.
 - Launch the Android application on your device.
 - View real-time air quality data retrieved from the Firebase database.
 
-System Overview
+# System Overview
 ESP32 Code
 - File: ESP32.ino
 - Functionality:
@@ -45,7 +45,7 @@ Expected Outcome
 - A fully operational system measuring air quality and displaying data in the mobile app.
 - Synchronization between the ESP32 and Android app via Firebase.
 
-Contact
+# Contact
 For more information, feel free to reach out: Nguyen Tai Phu (Email: nguyentaiphu980@gmail.com)
 
 
